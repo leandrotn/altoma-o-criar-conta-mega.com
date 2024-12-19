@@ -1,1 +1,1 @@
-# altoma-o-criar-conta-mega.com
+# COMANDO CMD: pip install selenium pyautogui colorama faker pyvirtualdisplay
